@@ -6,5 +6,5 @@ Some answers to Jotting Studio's application campaign.
 * [Ubuntu安装]()
 
 <p align="center">
-  <img src="https://linuxiac.com/ubuntu-new-logo/](https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png)">
+  <img src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png)">
 </p>
