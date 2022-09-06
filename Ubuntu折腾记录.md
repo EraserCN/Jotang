@@ -20,6 +20,9 @@
 # 写入镜像
 
 打开Ether并按要求选择镜像和要写入的硬盘，一路next直接写入。
+<p align="center">
+  <img src="https://github.com/EraserCN/Jotang/blob/main/pics/IMG_1910.HEIC">
+</p>
 
 # 配置Bios
 
@@ -30,7 +33,25 @@
 # 启动Ubuntu
 
 重启电脑，Bootloader会自动启动Ubuntu菜单，选择第一项以进入系统。
+<p align="center">
+  <img src="https://github.com/EraserCN/Jotang/blob/main/pics/IMG_1909.heic">
+</p>
 
 # 安装
 
-选择语言为简中，一路next就ok了，安装完后记得重启。
+选择语言为简中，接下来的键盘与地区选择一路next就ok了，我选择的是手动分盘安装，安装完重启就OK了。
+<p align="center">
+  <img src="https://github.com/EraserCN/Jotang/blob/main/pics/IMG_1911.HEIC">
+</p>
+<p align="center">
+  <img src="https://github.com/EraserCN/Jotang/blob/main/pics/IMG_1912.HEIC">
+</p>
+<p align="center">
+  <img src="https://github.com/EraserCN/Jotang/blob/main/pics/IMG_1913.HEIC">
+</p>
+
+# 彩蛋
+生活不能没有音乐！
+<p align="center">
+  <img src="https://github.com/EraserCN/Jotang/blob/main/pics/IMG_1914.HEIC">
+</p>
